@@ -1,12 +1,20 @@
-## Hi there 👋
+# 하이대디 - 아빠들을 위한 임신 동행 애플리케이션 💛
 
-<!--
+프로젝트 진행 중입니다.
 
-**Here are some ideas to get you started:**
+## 🚀 주요 기능 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🛠️ 서비스 아키텍처
+
+## 👨‍💻👩‍💻 팀 구성 
+
+### 프론트엔드 개발팀
+
+- [문채영](https://github.com/mcy0325)
+- [주민재](https://github.com/Juminjae) 
+
+### 백엔드 개발팀
+
+- [권용현](https://github.com/yyoonngg)
+- [김동현](https://github.com/dh1180)
+- [이지호](https://github.com/asfslaf)
